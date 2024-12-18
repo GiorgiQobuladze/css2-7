@@ -1,0 +1,139 @@
+* {
+    padding: 0px;
+    margin: 0 px;
+}
+
+#bady {
+    padding: 226px 158px;
+}
+
+#container {
+    width: 1412px;
+    padding: 96px;
+    background-color: #1B0E0F;
+}
+
+#containerdiv {
+    width: 1412px;
+    padding: 96px 0px;
+    background-color: #FFF;
+}
+
+#divblok {
+    width: 100%;
+}
+
+#listfoter {
+    color: #002AFE;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#listfotertwo {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+#listfoterThree {
+    color: #535862;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+#containermainone,
+#containermainTwo,
+#containermainThree {
+    width: 100%;
+    padding: 0px 96px;
+    margin-top: 56px;
+}
+
+#imageone,
+#imageTwo,
+#imageThree {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#imagetextone,
+#imagetextTwo,
+#imagetextThree {
+    width: 584px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+}
+
+#Design,
+#Product,
+#Customer {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#collaboration,
+#Javascript,
+#better {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    line-height: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#stronger,
+#frameworks,
+#Starting {
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#SVGImage,
+#SVGImageone,
+#SVGImageTwo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#portratone,
+#portrattwo,
+#portratThree {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Natali,
+#Natalione,
+#NataliTwo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+#Craig,
+#Craigone,
+#CraigTwo {
+    color: #181D27;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: 14px;
+}
+
+#Jan,
+#Janone,
+#JanTwo {
+    color: #535862;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: 14px;
+}
